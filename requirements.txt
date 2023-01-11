@@ -1,0 +1,4 @@
+tk
+tkfilebrowser
+pytest-shutil
+watchdog
